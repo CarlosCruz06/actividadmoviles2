@@ -7,7 +7,7 @@ import 'package:GvApp/screen/geolocator.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:GvApp/screen/sensor.dart';
 
-final Uri _url = Uri.parse('https://github.com/cristianrm13/APP_practica2.git');
+final Uri _url = Uri.parse('https://github.com/CarlosCruz06/actividadmoviles2.git');
 
 void main() {
   runApp(const MyApp());
